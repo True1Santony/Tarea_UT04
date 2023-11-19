@@ -7,7 +7,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.tareaut04"
+        applicationId = "com.example.nassekine.spartak.tarea04"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
